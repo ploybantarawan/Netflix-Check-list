@@ -1,0 +1,7 @@
+{
+  "name": "netflixCheck",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
